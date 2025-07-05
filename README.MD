@@ -7,7 +7,9 @@ It follows clean architecture principles and includes unit tests with coverage r
 
 ## 🚀 Getting Started
 
-go mod download
+1) git clone https://github.com/SonseLin/GO_Portfolio.git
+2) cd GO_Portfolio/rtdapp
+3) go mod download
 
 ### 🔧 Run the Server
 
